@@ -1,0 +1,1 @@
+"""NER-SHIELD module: Composite district Resilience Score (Phase 22 · C20)."""

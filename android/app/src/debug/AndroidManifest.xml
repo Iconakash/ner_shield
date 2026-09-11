@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- INTERNET is required for development (hot reload, etc.). -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- Debug-only: allow cleartext so the app can reach the local FastAPI dev
+         backend (e.g. http://10.0.2.2:8000). Release builds never enable
+         cleartext (docs/security-plan.md). -->
+    <application android:usesCleartextTraffic="true" />
+</manifest>

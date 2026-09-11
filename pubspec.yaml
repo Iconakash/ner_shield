@@ -1,0 +1,63 @@
+name: ner_shield
+description: "NER-SHIELD Android client — AI-based Smart Logistics & Accessibility Intelligence Platform for North Eastern Region (SIH26002)."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State / navigation
+  flutter_riverpod: ^2.6.1
+  go_router: ^16.1.0
+
+  # Networking
+  dio: ^5.8.0
+
+  # Secure local storage + offline primitives
+  flutter_secure_storage: ^9.2.4
+  connectivity_plus: ^6.1.4
+  # Persistent offline sync queue (Phase 1)
+  drift: ^2.20.0
+  sqlite3_flutter_libs: ^0.5.24
+  path_provider: ^2.1.4
+  path: ^1.9.0
+  # Phase 3 — phone GPS
+  geolocator: ^14.0.2
+
+  # Maps (Phase 8) — vendor-free OSM raster tiles
+  flutter_map: ^8.3.2
+  latlong2: ^0.9.1
+
+  # Utilities
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  logger: ^2.5.0
+  http: ^1.2.2
+  # Phase 4 — offline map tile cache (sha256 verification).
+  crypto: ^3.0.5
+
+  # Value models / JSON
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.10.1
+  freezed: ^4.0.1
+  json_serializable: ^6.11.1
+  mocktail: ^1.0.4
+  # Drift codegen
+  drift_dev: ^2.20.0
+
+flutter:
+  uses-material-design: true
+  generate: true

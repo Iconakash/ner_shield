@@ -1,0 +1,95 @@
+{
+  "@@locale": "en",
+  "appTitle": "NER-SHIELD",
+  "@appTitle": {
+    "description": "Application display name shown on the landing screen and launcher."
+  },
+
+  "commonLoading": "Loading...",
+  "commonRetry": "Retry",
+  "commonCancel": "Cancel",
+  "commonConfirm": "Confirm",
+  "commonOffline": "You are offline",
+  "commonErrorGeneric": "Something went wrong. Please try again.",
+
+  "authSignIn": "Sign in",
+  "authEmailLabel": "Email",
+  "authPasswordLabel": "Password",
+  "authMfaTitle": "Two-factor verification",
+  "authMfaBody": "Enter the 6-digit code from your authenticator app to complete sign-in.",
+  "authMfaVerify": "Verify",
+  "authMfaUseDifferent": "Use a different account",
+  "authSignOut": "Sign out",
+  "authRestoreFailed": "Session could not be restored. Please sign in again.",
+
+  "dashboardTitle": "Command center",
+  "dashboardKpiActiveIncidents": "Active incidents",
+  "dashboardKpiOpenAlerts": "Open alerts",
+  "dashboardKpiInTransit": "In transit shipments",
+  "dashboardKpiHighRiskRoads": "High-risk roads",
+  "dashboardKpiDataHealth": "Data health",
+  "dashboardKpiLastRefresh": "Last refresh",
+
+  "mapTitle": "Map",
+  "mapLayerSegments": "Segments",
+  "mapLayerFacilities": "Facilities",
+  "mapLayerHighRisk": "High-risk roads",
+  "mapLayerDisruptions": "Disruptions",
+  "mapLayerShipments": "Shipments",
+  "mapLayerWeather": "Weather",
+  "mapLocateButton": "Locate",
+  "mapSearchHint": "Search by coordinates (lon, lat)",
+  "mapStaleBanner": "Showing cached data — connect to refresh",
+
+  "alertsTitle": "Alerts",
+  "alertsInboxEmpty": "No alerts in your scope",
+  "alertsAcknowledge": "Acknowledge",
+  "alertsResolve": "Resolve",
+
+  "shipmentsTitle": "Logistics",
+  "shipmentsFilterAll": "All",
+  "shipmentsFilterActive": "Active",
+  "shipmentsFilterCritical": "Critical",
+  "shipmentsConfirmDelivery": "Confirm delivery",
+  "shipmentsEtaTitle": "Estimated arrival",
+
+  "riskTitle": "Risk predictions",
+  "riskEmpty": "No predictions published",
+  "riskWhy": "Why this score?",
+  "riskModel": "Model: {model}",
+  "@riskModel": {
+    "placeholders": {
+      "model": { "type": "String" }
+    }
+  },
+
+  "routingTitle": "Route planner",
+  "routingOriginHint": "Origin (facility code or lon, lat)",
+  "routingDestHint": "Destination",
+  "routingPlanButton": "Plan",
+  "routingSwap": "Swap",
+  "routingWhy": "Why this route?",
+
+  "historicalTitle": "Historical validation",
+  "historicalDetailTitle": "Historical event",
+  "historicalLatestRun": "Latest validation run",
+  "historicalDataMeasured": "MEASURED",
+  "historicalDataSample": "SAMPLE",
+  "historicalDataSimulated": "SIMULATED",
+  "historicalDataNoDataset": "NO_DATASET",
+
+  "tasksTitle": "Action Center",
+  "tasksEmpty": "No assigned tasks",
+
+  "emergencyTitle": "Emergency response",
+  "emergencyEmpty": "No assigned tasks",
+
+  "incidentsTitle": "Reports",
+  "incidentsSubmitReport": "New report",
+  "incidentsQueueTitle": "Validation queue",
+  "incidentsTrustTitle": "Reporter trust",
+
+  "notificationsPrefsTitle": "Notifications",
+  "notificationsChannels": "Channels",
+  "notificationsMinSeverity": "Minimum severity"
+}

@@ -1,0 +1,12 @@
+# Global codegen configuration.
+#
+# The NER-SHIELD backend (FastAPI + Postgres) speaks snake_case in every JSON
+# payload (verified against backend/app/*/router.py), while Dart convention is
+# lowerCamelCase. Renaming fields during (de)serialization keeps models
+# idiomatic without @JsonKey noise on every field.
+targets:
+  $default:
+    builders:
+      json_serializable:
+        options:
+          field_rename: snake

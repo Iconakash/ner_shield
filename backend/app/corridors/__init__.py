@@ -1,0 +1,1 @@
+"""NER-SHIELD module: Critical Corridor Ranking (Phase 24 · C22)."""

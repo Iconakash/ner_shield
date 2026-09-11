@@ -1,0 +1,22 @@
+# ninja log v5
+0	135	8097769349587188	CMakeFiles/jni.dir/include/dart_api_dl.c.o	4617a7903375e1d8
+20	192	8097769350148048	CMakeFiles/jni.dir/dartjni.c.o	d473f5852a9b1e77
+12	276	8097769350967417	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	7e67c381ca10c237
+276	419	8097769352441527	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+2	130	8097782114848771	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	114	8097788548685819	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	102	8097796864460396	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	110	8097820727191743	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	131	8097833205368870	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+2	113	8097842659723617	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	137	8097860560623777	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+4	143	8097869318393226	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+3	126	8097903886722719	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+2	96	8097919580789784	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+9	207	8099033323649781	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+4	156	8103180535124436	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+5	417	8104610299217892	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+5	230	8106643585661862	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+5	164	8106644948820546	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+2	218	8107605757772252	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e
+4	383	8107665115953440	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/armeabi-v7a/libdartjni.so	c59decdf32c51c7e

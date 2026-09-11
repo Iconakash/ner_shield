@@ -1,0 +1,22 @@
+# ninja log v5
+8	107	8097769364911257	CMakeFiles/jni.dir/include/dart_api_dl.c.o	54da1b8767cc1c65
+0	168	8097769365501314	CMakeFiles/jni.dir/dartjni.c.o	ed2469c4df9a19c4
+20	255	8097769366351264	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	5cacde75952d3340
+255	399	8097769367851265	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+2	130	8097782116989468	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+2	99	8097788553535814	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	99	8097796866430533	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	105	8097820729141552	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+4	142	8097833208340507	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+2	109	8097842661980679	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	133	8097860563082051	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	103	8097869320462241	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	109	8097903900340298	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+2	97	8097919582863877	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+6	176	8099033327017064	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	172	8103180704746779	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	171	8104610301692303	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+5	284	8106643589363439	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+4	138	8106644950820540	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	244	8107605760785928	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913
+3	104	8107665117527095	D:/NER-SHIELD-WORKSPACE/ner_shield/build/jni/intermediates/cxx/Debug/526y176t/obj/x86/libdartjni.so	bec56700b6383913

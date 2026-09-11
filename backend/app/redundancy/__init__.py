@@ -1,0 +1,1 @@
+"""NER-SHIELD module: Route Redundancy Intelligence (Phase 23 · C21)."""
